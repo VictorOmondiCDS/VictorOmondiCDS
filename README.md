@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Vick-Cover](https://github.com/VictorOmondi1997/VictorOmondiCDS/blob/master/vick-cover.gif?raw=true)
+![Vick-Cover](https://github.com/VictorOmondiCDS/VictorOmondiCDS/blob/master/vick-cover.gif?raw=true)
 
 <p align="center">
 	<a href="https://github.com/VictorOmondiCDS"><img src="https://img.shields.io/github/followers/VictorOmondiCDS.svg?label=GitHub&style=social" alt="GitHub"></a>
